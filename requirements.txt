@@ -1,0 +1,8 @@
+streamlit==1.23.1
+pandas==2.0.2
+mysql-connector-python==8.0.33
+openai==1.31.0
+Pillow
+requests
+Page
+st_pages
